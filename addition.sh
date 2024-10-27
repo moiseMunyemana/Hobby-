@@ -10,3 +10,5 @@ read -p "Enter Second Number: " var2
 sum=$(( $var1 + $var2))
 
 echo "sum is:  $sum Thanks "
+
+echo "Good bye"
