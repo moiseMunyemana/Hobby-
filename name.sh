@@ -4,7 +4,7 @@ echo "What's your name?"
 
 read enter_fname 
 
-echo -e "\nWelcome to bash tutorial" $entered_name
+echo -e "\nWelcome to bash " $entered_name
 
 read enter_lname
 
